@@ -8,7 +8,7 @@ size-optimal 16-sorter, then it sorts the last 12 elements with a size-optimal 1
 with the merge step of a size-32 merge-exchange network whose comparators handling elements after the 29th one have been
 removed.
 
-# TODO: include network
+![Size-optimal 29-sorter](https://cdn.rawgit.com/Morwenn/comparator-networks/master/networks/sort/29/size-optimal-29.svg)
 
 
   [1]: http://www.dtic.mil/dtic/tr/fulltext/u2/737270.pdf
